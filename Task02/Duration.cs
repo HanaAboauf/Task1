@@ -51,7 +51,7 @@ namespace Task02
 
         #region Constructor
 
-        public Duration(double h, double m, double s) {
+        public Duration(int h, int m, int s) {
             Hours = h;
             Minutes = m;
             Seconds = s;
