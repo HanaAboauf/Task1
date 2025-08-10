@@ -3,7 +3,28 @@
     internal class Program
     {
 
- 
+        //static int LongestDistance(int[] arr)
+        //{
+        //    int maxDistance = 0;
+
+        //    for (int i = 0; i < arr.Length - 1; i++)
+        //    {
+        //        for (int j = arr.Length - 1; j > i; j--)
+        //        {
+        //            if (arr[i] == arr[j])
+        //            {
+        //                int distance = j - i - 1;
+        //                if (distance > maxDistance)
+        //                {
+        //                    maxDistance = distance;
+        //                }
+        //                break;
+        //            }
+        //        }
+        //    }
+
+        //    return maxDistance;
+        //}
         static void Main(string[] args)
         {
             #region Q01
